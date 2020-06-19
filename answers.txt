@@ -1,0 +1,19 @@
+I really appreciate that you guys believe anything can be learned and I am also a believer of that.
+
+Answer 1)
+I know how networking works as I am CCNA certified but have not learned so much about them in programming. I know requests library in python but don't know about python sockets so much.  
+
+Answer 2)
+I believe I could learn that as my networking skills are strong
+
+Answer 3)
+Yes I know Oracle SQL
+
+Answer 4)
+Yes I have worked with ORM in Django where I used it to run queries on SQLite and MySQL databases but I don't know sqlAlcemy or mangoEngine.
+
+Answer 5)
+yes I know Django and Flask but I just need to brushup. If I am provided with internet, I can easily build up any django or flask Web Application.
+
+Answer 6)
+I am familiar with asyncio.
